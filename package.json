@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-jasmine-travis",
+  "version": "1.0.0",
+  "description": "Este repositório contém o código fonte de uma aplicação de calculadora que foi desenvolvida no curso de testes unitários com Jasmine e esta integrado com o Travis CI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsamaral/calculadora-jasmine-travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matsamaral/calculadora-jasmine-travis/issues"
+  },
+  "homepage": "https://github.com/matsamaral/calculadora-jasmine-travis#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
